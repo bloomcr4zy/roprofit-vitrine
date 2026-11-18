@@ -21,7 +21,11 @@
 
 ## Sobre
 
-O RoProfit nasceu para substituir planilhas no dia a dia de uma loja de Robux e Limiteds. Ele acompanha cada item desde a compra até o dinheiro voltar ao caixa, mostra o que está em hold, o que está pronto para vender e quanto cada conta ainda consegue movimentar no mês.
+O RoProfit é um painel administrativo para gerenciar a revenda de Robux e itens Limited do Roblox. O painel acompanha o estoque da compra à venda e mostra quais itens estão em período de retenção, quais já podem ser vendidos e quais vendas ainda aguardam a liberação dos Robux.
+
+A visão geral reúne faturamento, lucro realizado, saldo em caixa e progresso da meta mensal. Na área de contas, é possível acompanhar quanto cada conta já movimentou e quanto ainda pode enviar no mês. O otimizador usa essa capacidade para sugerir a distribuição dos itens. O simulador estima cenários de crescimento a partir do capital disponível, e a área financeira reúne o livro-caixa e as despesas da operação.
+
+As capturas abaixo mostram a dashboard em funcionamento com dados fictícios.
 
 ## Destaques
 
@@ -35,8 +39,6 @@ O RoProfit nasceu para substituir planilhas no dia a dia de uma loja de Robux e 
 - **Integração com Discord** — bot que acompanha pedidos e avisa sobre anúncios de troca.
 
 ## Telas
-
-As capturas usam dados fictícios para ilustrar os fluxos do painel.
 
 | | |
 |:---:|:---:|
